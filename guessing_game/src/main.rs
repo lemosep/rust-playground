@@ -31,7 +31,7 @@ fn main() {
                 println!("You win!");
                 break;
             },
-        }   
+        } 
     }
 
 }

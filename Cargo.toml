@@ -2,5 +2,6 @@
 resolver = "2"
 members = [
     "guessing_game",
-    "fahrenheit_to_celsius"
+    "fahrenheit_to_celsius",
+    "fibonacci"
 ]
